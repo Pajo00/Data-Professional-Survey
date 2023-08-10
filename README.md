@@ -6,12 +6,13 @@ The aim of this project is to display my skills in analyzing and visualizing a s
 
 ## Problem Statement
 
--	Which countries have the highest representation in the dataset?	
--  What are the most common job titles held by respondents?
--	Which programming languages are most favored by respondents?
--	What is the average annual salary across different Job titles?
--	How satisfied are respondents with different aspects of their current positions, such as salary and work/life balance
--	How do respondents perceive the difficulty of breaking into the data field?
+1. Which countries have the highest representation in the dataset?
+2. What are the most common job titles held by respondents?
+3.	Which programming languages are most favored by respondents?
+4.	What is the average annual salary across different Job titles?
+5.	How satisfied are respondents with different aspects of their current positions, such as salary and work/life balance
+6.	How do respondents perceive the difficulty of breaking into the data field?
+ 
 
 
 ## Data Sourcing
