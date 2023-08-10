@@ -4,9 +4,19 @@
 
 The aim of this project is to display my skills in analyzing and visualizing a survey carried out on Data professionals using PowerBI.
 
-# Data Sourcing
+## Problem Statement
 
-This data was found online, downloaded as an excel file and then imported into PowerBI for cleaning, analysis and visualization. 
+•	Which countries have the highest representation in the dataset?
+•	What are the most common job titles held by respondents?
+•	Which programming languages are most favored by respondents?
+•	What is the average annual salary across different Job titles?
+•	How satisfied are respondents with different aspects of their current positions, such as salary and work/life balance
+•	How do respondents perceive the difficulty of breaking into the data field?
+
+
+## Data Sourcing
+
+This data was found online, downloaded as an Excel file, and then imported into PowerBI for cleaning, analysis and visualization. 
 
 ![](Dataset.png)
 
