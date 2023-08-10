@@ -6,12 +6,12 @@ The aim of this project is to display my skills in analyzing and visualizing a s
 
 ## Problem Statement
 
-•	Which countries have the highest representation in the dataset?
-•	What are the most common job titles held by respondents?
-•	Which programming languages are most favored by respondents?
-•	What is the average annual salary across different Job titles?
-•	How satisfied are respondents with different aspects of their current positions, such as salary and work/life balance
-•	How do respondents perceive the difficulty of breaking into the data field?
+-	Which countries have the highest representation in the dataset?	
+-  What are the most common job titles held by respondents?
+-	Which programming languages are most favored by respondents?
+-	What is the average annual salary across different Job titles?
+-	How satisfied are respondents with different aspects of their current positions, such as salary and work/life balance
+-	How do respondents perceive the difficulty of breaking into the data field?
 
 
 ## Data Sourcing
@@ -38,14 +38,14 @@ Data was efficiently cleaned and transformed with the Power Query Editor of Powe
 
 ## Data Modelling
 
-No modelling was required since we need just a table for the analysis.
+No modeling was required since we need just a table for the analysis.
 
 
 ## Analysis and Visualization
 
 ![](Dashboard.png)
 
-1.	From 	the dashboard it is observed that the average salary is $54k.
+1.	From the dashboard it is observed that the average salary is $54k.
 2.	The survey takers were from 79 different countries.
 3.	The average age was 30 years old.
 
